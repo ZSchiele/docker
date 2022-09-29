@@ -1,0 +1,1 @@
+start /w "" "c:\temp\DockerDesktopInstaller.exe" install --quiet --accept-license --backend=wsl-2
